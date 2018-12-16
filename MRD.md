@@ -77,6 +77,7 @@
 
 
 ## 竞品分析
+[参考](https://www.jianshu.com/p/b3e0ffb2c092)
 
 ### 1.竞品分析对象
 
