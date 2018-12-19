@@ -25,4 +25,4 @@
   - [产品特色功能](https://github.com/Yejiejie/APP_Final/blob/master/%E4%BA%A7%E5%93%81%E7%89%B9%E8%89%B2%E5%8A%9F%E8%83%BD.md)
 - CMS产品PRD
   - [产品框架图](https://yejiejie.github.io/APP_Final/APP_CMS/start.html#g=1&p=index)
-  
+  - [角色权限框架图](https://yejiejie.github.io/APP_Final/APP_CMS/start.html#g=1&p=index)
