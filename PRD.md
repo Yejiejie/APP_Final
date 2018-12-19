@@ -19,3 +19,4 @@
 
 #### 产品框架图
 [产品框架图](https://yejiejie.github.io/APP_Final/APP_CMS/start.html#g=1&p=index)
+[角色权限框架图](https://yejiejie.github.io/APP_Final/APP_CMS/start.html#g=1&p=index)
