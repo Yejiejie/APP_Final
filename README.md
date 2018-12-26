@@ -19,6 +19,6 @@
   - [产品框架图](https://yejiejie.github.io/APP_Final/APP_CMS/start.html#g=1&p=index)
   - [角色权限框架图](https://yejiejie.github.io/APP_Final/APP_CMS/start.html#g=1&p=index)
 
-#### 具体产品原型文档
+#### 具体产品原型文档（week17）
 - [前端产品原型](https://yejiejie.github.io/APP_team/#g=1&p=注册)
 - [CMS系统原型](https://yejiejie.github.io/APP_CMS/#g=1&p=1_首页)
